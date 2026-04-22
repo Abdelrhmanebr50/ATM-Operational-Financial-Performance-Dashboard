@@ -33,9 +33,8 @@ The report prominently displays crucial Key Performance Indicators (KPIs) to fac
 - **Excel/SQL:** Data Source and Structural Preparation.
 
 ## 📂 Project Structure
-- `ATM_Transaction_Dashboard.pbix`: The core Power BI project file.
-- `Screenshots/`: High-resolution images of the dashboard.
-- `Data/`: Sample dataset (if applicable).
+- `workshop.pdix`: The core Power BI project file.
+- `2.png`: High-resolution images of the dashboard.
 
 ---
 © 2026 Abdelrahman Ibrahim. All Rights Reserved.
