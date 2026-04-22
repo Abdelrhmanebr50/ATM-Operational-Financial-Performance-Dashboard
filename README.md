@@ -1,6 +1,6 @@
 # 🏧 ATM Operational & Financial Performance Dashboard
 
-![Dashboard Preview](2.jpg)
+![Dashboard Preview](2.png)
 
 ## 🌟 Overview
 This **Power BI dashboard** provides a comprehensive analysis of ATM network operations and financial health. Designed using **Figma** for a modern, high-contrast User Interface (UI), it enables stakeholders to gain deep insights into key metrics, revenue streams, and transaction trends.
